@@ -1,0 +1,7 @@
+function exit() {
+
+  
+
+}
+
+export { exit }
